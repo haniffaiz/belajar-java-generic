@@ -3,7 +3,7 @@ package programmer.zaman.now.generic.application;
 public class MultipleConstraintApp {
     public static void main(String[] args) {
 //        Data<Manager> managerData = new Data<>(new Manager()); //ERROR mgr tidak implement CanSayHello
-        Data<VicePresident> vicePresidentData = new Data<>(new VicePresident);
+        Data<VicePresident> vicePresidentData = new Data<>(new VicePresident());
     }
 
     public static interface CanSayHello{
@@ -39,7 +39,6 @@ public class MultipleConstraintApp {
 
         public void setData(T data) {
             this.data = data;
-
         }
     }
 }

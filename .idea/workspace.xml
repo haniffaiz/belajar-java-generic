@@ -39,7 +39,7 @@
     "onboarding.tips.debug.path": "C:/Users/hanif/development/java/belajar-java-dasar/belajar-java-generic/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MultipleConstraintApp">
+  <component name="RunManager" selected="Application.WildcardApp">
     <configuration name="ArrayHelperApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.generic.application.ArrayHelperApp" />
       <module name="belajar-java-generic" />
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.generic.application.PairApp" />
+    <configuration name="WildcardApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.generic.application.WildcardApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WildcardApp" />
         <item itemvalue="Application.MultipleConstraintApp" />
         <item itemvalue="Application.ContravariantApp" />
         <item itemvalue="Application.CovariantApp" />
         <item itemvalue="Application.ArrayHelperApp" />
-        <item itemvalue="Application.PairApp" />
       </list>
     </recent_temporary>
   </component>

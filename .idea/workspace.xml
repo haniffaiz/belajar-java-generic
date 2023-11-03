@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2703bf74-009e-411a-9635-ff7521bea888" name="Changes" comment="Wildcard">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/generic/application/TypeErasureApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="2703bf74-009e-411a-9635-ff7521bea888" name="Changes" comment="Type Erasure" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +36,9 @@
     "onboarding.tips.debug.path": "C:/Users/hanif/development/java/belajar-java-dasar/belajar-java-generic/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TypeErasureApp">
-    <configuration name="ContravariantApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.generic.application.ContravariantApp" />
+  <component name="RunManager" selected="Application.ComparableApp">
+    <configuration name="ComparableApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.generic.application.ComparableApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -52,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CovariantApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.generic.application.CovariantApp" />
+    <configuration name="ContravariantApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.generic.application.ContravariantApp" />
       <module name="belajar-java-generic" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparableApp" />
         <item itemvalue="Application.TypeErasureApp" />
         <item itemvalue="Application.WildcardApp" />
         <item itemvalue="Application.MultipleConstraintApp" />
         <item itemvalue="Application.ContravariantApp" />
-        <item itemvalue="Application.CovariantApp" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699013007332</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Type Erasure">
+      <option name="closed" value="true" />
+      <created>1699013434533</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699013434533</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,7 +212,8 @@
     <MESSAGE value="Contravariant" />
     <MESSAGE value="Bounded Type Parameter" />
     <MESSAGE value="Wildcard" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wildcard" />
+    <MESSAGE value="Type Erasure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Type Erasure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
